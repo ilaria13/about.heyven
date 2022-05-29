@@ -1,0 +1,44 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+Template: hello-elementor
+Author: Elementor Team
+Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+Description: A plain-vanilla &amp; lightweight theme for Elementor page builder
+Tags: flexible-header,custom-colors,custom-menu,custom-logo,featured-images,rtl-language-support,threaded-comments,translation-ready
+Version: 2.5.0.1653330013
+Updated: 2022-05-23 18:20:13
+
+*/
+
+p label {
+  color: white;
+  padding-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  border: 0px solid #666;
+  border-radius: 30px;
+  padding: 0.7rem 1rem;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+input[type="email"] {
+  width: 100%;
+  border: 0px solid #666;
+  border-radius: 30px;
+  padding: 0.7rem 1rem;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+input[type="submit"] {
+  border-radius: 30px;
+  padding: 0.8rem 1.5rem;
+  border: 0px solid #c36;
+  margin-top: 30px;
+}
